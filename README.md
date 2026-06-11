@@ -1,4 +1,5 @@
-# CRM Personal — Guía de instalación y despliegue
+# CRM Personal — Guía de instalación y  j j jnjnj
+
 
 Este proyecto es un CRM con Next.js + Supabase, con Google Sign-In, roles
 (admin / comercial / sin_rol), registro público de clientes, asignación de
